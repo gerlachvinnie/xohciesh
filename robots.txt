@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neengiech.aventyrsupplevelser.com/sitemap.xml
